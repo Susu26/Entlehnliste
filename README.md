@@ -11,7 +11,7 @@
 </p>
 
 ## 📝 Table of Contents
-+ [So soll es aussehen](doc/Enlehnliste_MEDT_v2023.pdf)
++ [So soll es aussehen](doc/Entlehnliste.adoc)
 
 ## 🧐 About <a name = "about"></a>
 
