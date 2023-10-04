@@ -17,6 +17,6 @@
 
 Die Entlehnliste ist ein einfaches, aber nützliches Projekt, das entwickelt wurde, um die Verfolgung von entliehenen Kamera oder Ressourcen zu erleichtern. Dieses Projekt wurde erstellt, um Lehrer bei der effizienten Verwaltung und Überwachung von ausgeliehenen Artikeln zu unterstützen.
 
-<img align="center">
+
 ![Working](https://media0.giphy.com/media/kLOkqcrdC5mrCE7k7G/giphy.gif)
-</img>
+
