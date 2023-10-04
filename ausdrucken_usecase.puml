@@ -1,0 +1,9 @@
+@startuml
+actor Lehrkraft
+rectangle Drucker
+package Entlehnliste {
+    usecase ausdrucken
+}
+Lehrkraft -> ausdrucken
+ausdrucken -> Drucker
+@enduml
