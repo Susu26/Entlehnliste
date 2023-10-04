@@ -1,1 +1,20 @@
-= test
+[%header, cols="1,2,4,2,3,1,1,2,2,2,4"]
+|===
+| Gerät Nr.
+| Zubehör
+| Entlehner*in + Klasse
+| Entlehnung Datum
+| Unterschrift Entlehner*in
+| Paraphe Lehrkraft
+| Rückgabe geplant
+| Rückgabe tatsächlich
+| Unterschrift Entlehner*in
+| Paraphe Lehrkraft
+| Anmerkung
+
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+|===
