@@ -25,4 +25,4 @@
 
 - Zwischen Spalte 6 und 7 soll eine dickere Linie gezogen werden
 - Der Header soll farblich hervorgehoben werden
-- Spalte 6 und 10 sollen varblich hervorgehoben werden
+- Spalte 6 und 10 sollen farblich hervorgehoben werden
