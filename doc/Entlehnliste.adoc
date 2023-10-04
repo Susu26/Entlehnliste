@@ -1,20 +1,28 @@
-[%header, cols="1,2,4,2,3,1,1,2,2,2,4"]
-|===
-| Gerät Nr.
-| Zubehör
-| Entlehner*in + Klasse
-| Entlehnung Datum
-| Unterschrift Entlehner*in
-| Paraphe Lehrkraft
-| Rückgabe geplant
-| Rückgabe tatsächlich
-| Unterschrift Entlehner*in
-| Paraphe Lehrkraft
-| Anmerkung
+:table-head: background-color:#e6e6e6
 
-| | | | | | | | | | |
-| | | | | | | | | | |
-| | | | | | | | | | |
-| | | | | | | | | | |
-| | | | | | | | | | |
+[%header, .stripes-even, cols="1,2,4,2,3,1,1,2,2,2,4"]
 |===
+^| Gerät Nr.
+^| Zubehör
+^| Entlehner*in + Klasse
+^| Entlehnung Datum
+^| Unterschrift Entlehner*in
+^| Paraphe Lehrkraft
+^| Rückgabe geplant
+^| Rückgabe tatsächlich
+^| Unterschrift Entlehner*in
+^| Paraphe Lehrkraft
+^| Anmerkung
+
+11*^|
+11*^|
+11*^|
+11*^|
+11*^|
+|===
+
+=== Anmerkungen
+
+- Zwischen Spalte 6 und 7 soll eine dickere Linie gezogen werden
+- Der Header soll farblich hervorgehoben werden
+- Spalte 6 und 10 sollen varblich hervorgehoben werden
