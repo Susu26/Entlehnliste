@@ -1,6 +1,7 @@
 @startuml
+!include <osa/printer/printer>
 actor Lehrkraft
-rectangle Drucker
+rectangle "<$printer>" as (Drucker)
 package Entlehnliste {
     usecase ausdrucken
 }
